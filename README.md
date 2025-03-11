@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohisnFurkh
+- 👋 Hi, I’m @MohsinFurkh
 - 👀 I’m interested in deep learning, computer vision and NLP tasks
 - 🌱 I’m currently learning semantic segmentation of biomedical images
 - 📫 You can email me @ 20mcpc02@uohyd.ac.in
